@@ -1,0 +1,131 @@
+body {
+	padding-top:50px;
+}
+
+.navbar-bright {
+	background-color:#009FC7;
+    color:#fff;
+    min-height: 40px;
+    
+    
+}
+.nav-link {
+	background-color:#FFFFFF;
+    color:#000000;
+    font: normal normal 700 20px/22px Lato;
+    
+}
+.navbar-brand{
+    left: 0%;
+
+}
+
+.heading{
+color : white;
+position: absolute;
+ top: 50%; 
+ widows: 100%;    
+left: 100px;
+text-align: left;
+font-size: 60px;
+letter-spacing: 0px;
+font-weight: 500;
+
+}
+.sous{
+    font-weight: bold;
+}
+
+
+.btn {position:absolute; top: 80%; widows: 100%;
+    left: 100px;
+    text-align: left;
+    background-color: #009FC7;
+    border: none;
+    color: white;
+    padding: 18px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+.bg{
+    background: #000000 15% 10% no-repeat padding-box;
+ /*background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;*/
+}
+
+
+
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color:#009FC7 ;
+    color:white;
+  }
+.navbar-header{
+  position: absolute;
+
+  left: 1%;
+
+}
+.navbar-header2{
+  position: absolute;
+
+  left: 15%;
+
+
+}
+.navbar-header1{
+  position: absolute;
+
+  left: 80%;
+}
+.navbar-header3{
+  position: absolute;
+
+  left: 100%;
+
+}
+.fa-facebook{
+  color: #f9f9f9;
+
+  
+}
+.fa-linkedin {
+  color: #f9f9f9;
+
+
+}

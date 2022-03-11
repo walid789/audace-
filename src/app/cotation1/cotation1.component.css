@@ -1,0 +1,47 @@
+
+.titre{
+    font: normal normal 900 40px/48px Lato;
+}
+
+.ligne{
+    border: 3px solid #009FC7;
+    background-color: #009FC7;
+    width: 150px;
+    margin-left: 0px;
+}
+.par{
+    font: normal normal normal Lato;
+    letter-spacing: 0.44px;
+    color: #707070;    }
+   
+    .im1{
+        position: absolute;
+        top:120px;
+        left: 15%;
+
+    }
+    .container1{
+        padding-left: 100px;
+        padding-right: 30px;
+        padding-top:70px;
+    }
+    .button1 {
+       
+        text-align: left;
+        background-color: white;
+        border: 1px solid #009FC7;
+        color: #009FC7;
+        padding: 18px 35px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+       
+    }
+    .btn1:hover{
+        color:white;
+        background-color: #009FC7;
+    }
+    

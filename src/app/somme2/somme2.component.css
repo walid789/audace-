@@ -1,0 +1,138 @@
+body {
+	padding-top:50px;
+}
+
+.navbar-bright {
+	background-color:#009FC7;
+    color:#fff;
+    min-height: 40px;
+    
+    
+}
+.nav-link {
+	background-color:#FFFFFF;
+    color:#000000;
+    font: normal normal 700 20px/22px Lato;
+    
+}
+.navbar-brand{
+    left: 0%;
+
+}
+
+.heading{
+color : white;
+position: absolute;
+ top: 50%; 
+ widows: 100%;    
+right: 100px;
+left: 100px;
+text-align: center;
+font-size: 77px;
+letter-spacing: 0px;
+font-weight: 900;
+}
+.sous{
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.btn {position:absolute; top: 80%; widows: 100%;
+    left: 100px;
+    text-align: left;
+    background-color: #009FC7;
+    border: none;
+    color: white;
+    padding: 18px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+.bg{
+    background: #000000 15% 10% no-repeat padding-box;
+ /*background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;*/
+}
+
+.titre1{
+    font: normal normal 900 40px/48px Lato;
+    color:black;
+}
+
+.ligne{
+    border: 3px solid #009FC7;
+    background-color: #009FC7;
+    width: 150px;
+    margin-left: 0px;
+}
+.par1{
+    font: normal normal  Lato;
+    letter-spacing: 0.44px;
+    color: #707070;   
+    font-size: 18px;
+ }
+    .im2{
+        position: relative;
+        top: 30px;
+    }
+    .im1{
+        position: absolute;
+        top:20px;
+        left: 27%;
+
+    }
+    .container1{
+        padding-left: 100px;
+        padding-right: 30px;
+        padding-top:50px;
+    }
+    .btn1 {
+       
+        text-align: left;
+        background-color: white;
+        border: 1px solid #009FC7;
+        color: #009FC7;
+        padding: 18px 35px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+       
+    }
+    .btn1:hover{
+        color:white;
+        background-color: #009FC7;
+    }
+
+
+    .container2{
+        background-color: #000000;
+    }
+    .container1{
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    .titre{
+        font: normal normal bold 25px/30px Lato;
+        color:white;
+    }
+    .par{
+        color: #8b8b8b;
+        font: normal normal  15px/18px Lato;
+        padding-right: 50px;
+    }
+    .map{
+        height: 100px;
+        width: 100px;
+    }
+    
+
